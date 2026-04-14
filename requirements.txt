@@ -1,0 +1,5 @@
+gradio
+groq
+gTTS
+openai-whisper
+ffmpeg-python
